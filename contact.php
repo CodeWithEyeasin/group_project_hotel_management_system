@@ -39,7 +39,7 @@
                          <i class="bi bi-telephone-fill"></i>+8801701700847</a>
 
                          <h5 class="mt-4">Email</h5>
-                         <a href="mailto: ifan35-755@diu.edu.bd " class="d-inline-block  text-decoration-none text-dark">
+                         <a href="mailto: shamiha35-778@diu.edu.bd " class="d-inline-block  text-decoration-none text-dark">
                          <i class="bi bi-envelope-fill"></i> contact.myhotel@gmail.com
                         </a>
 
