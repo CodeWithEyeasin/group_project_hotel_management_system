@@ -32,8 +32,8 @@
                     </a>
 
                     <h5 class="mt-4">Call us</h5>
-                    <a href="tel: +8801989474944" class="d-inline-block mb-2  text-decoration-none text-dark">
-                        <i class="bi bi-telephone-fill"></i>+8801989474944</a>
+                    <a href="tel: +8801728044736" class="d-inline-block mb-2  text-decoration-none text-dark">
+                        <i class="bi bi-telephone-fill"></i>+8801728044736</a>
                         <br>
                      <a href="tel: +8801701700847" class="d-inline-block  text-decoration-none text-dark">
                          <i class="bi bi-telephone-fill"></i>+8801701700847</a>
